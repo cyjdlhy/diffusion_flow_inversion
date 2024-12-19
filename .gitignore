@@ -1,0 +1,8 @@
+images*/
+outputs/
+core*
+.vscode/
+__*/
+
+.DS_Store
+Thumbs.db
